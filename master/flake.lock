@@ -52,11 +52,11 @@
         "science-v0_2_2": "science-v0_2_2"
       },
       "locked": {
-        "lastModified": 1647068275,
-        "narHash": "sha256-ODiZXj3JR8PGOerrQ2utPoa3RynjYXDwkYKbtnNaKmI=",
+        "lastModified": 1647112511,
+        "narHash": "sha256-EbaUunJo70OjL1DNaRSKoikvnI216aM1t9RaRgB6mTc=",
         "owner": "nim-nix-pkgs",
         "repo": "science",
-        "rev": "76c018662582a17a9777537de9096e3aecea7b03",
+        "rev": "ad34a4a5ef9753dfd48945a21338cfefe3a7f4c1",
         "type": "github"
       },
       "original": {
@@ -79,13 +79,20 @@
         "src-science-master": "src-science-master"
       },
       "locked": {
-        "narHash": "sha256-C0UPvYysrK6nAXj1G1CO0KQPo1Euw1XNlNGngQpEKOI=",
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "lastModified": 1647112511,
+        "narHash": "sha256-EbaUunJo70OjL1DNaRSKoikvnI216aM1t9RaRgB6mTc=",
+        "owner": "nim-nix-pkgs",
+        "repo": "science",
+        "rev": "ad34a4a5ef9753dfd48945a21338cfefe3a7f4c1",
+        "type": "github"
       },
       "original": {
-        "path": "./master",
-        "type": "path"
+        "dir": "master",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "science",
+        "type": "github"
       }
     },
     "science-v0_2_2": {
@@ -101,13 +108,20 @@
         "src-science-v0_2_2": "src-science-v0_2_2"
       },
       "locked": {
-        "narHash": "sha256-XgnaSm8MWJwbUFpm7W6BXAknKO8ZkBoLVpqizU31ugo=",
-        "path": "./v0_2_2",
-        "type": "path"
+        "dir": "v0_2_2",
+        "lastModified": 1647112511,
+        "narHash": "sha256-EbaUunJo70OjL1DNaRSKoikvnI216aM1t9RaRgB6mTc=",
+        "owner": "nim-nix-pkgs",
+        "repo": "science",
+        "rev": "ad34a4a5ef9753dfd48945a21338cfefe3a7f4c1",
+        "type": "github"
       },
       "original": {
-        "path": "./v0_2_2",
-        "type": "path"
+        "dir": "v0_2_2",
+        "owner": "nim-nix-pkgs",
+        "ref": "master",
+        "repo": "science",
+        "type": "github"
       }
     },
     "src-mentat-master": {
