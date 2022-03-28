@@ -11,7 +11,6 @@
   inputs.src-mentat-v0_1_2.ref   = "refs/tags/v0.1.2";
   inputs.src-mentat-v0_1_2.owner = "ruivieira";
   inputs.src-mentat-v0_1_2.repo  = "nim-mentat";
-  inputs.src-mentat-v0_1_2.dir   = "";
   inputs.src-mentat-v0_1_2.type  = "github";
   
   inputs."science".owner = "nim-nix-pkgs";
