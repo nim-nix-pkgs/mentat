@@ -53,11 +53,11 @@
       },
       "locked": {
         "dir": "v0_2_2",
-        "lastModified": 1658032187,
-        "narHash": "sha256-69cW/HAXYtR3T+K6qqdcsg2APmuF9KBoF4+XMAH9yT0=",
+        "lastModified": 1658201844,
+        "narHash": "sha256-UJ+PC3pQvSNHNFM+66+6RI6nSrzfPUy5sVKnubvHbWQ=",
         "owner": "nim-nix-pkgs",
         "repo": "science",
-        "rev": "c86385cf9c1c0b473992a529acbadf07c5600c86",
+        "rev": "30ed88dbf3c2504bd6be12b826bb75a33ca0252e",
         "type": "github"
       },
       "original": {
