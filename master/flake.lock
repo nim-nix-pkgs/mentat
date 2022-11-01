@@ -23,11 +23,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1662096612,
-        "narHash": "sha256-R+Q8l5JuyJryRPdiIaYpO5O3A55rT+/pItBrKcy7LM4=",
+        "lastModified": 1667110639,
+        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "21de2b973f9fee595a7a1ac4693efff791245c34",
+        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
         "type": "github"
       },
       "original": {
@@ -55,11 +55,11 @@
       },
       "locked": {
         "dir": "v0_2_2",
-        "lastModified": 1662254799,
-        "narHash": "sha256-cjxvrZ8/MTUdrINrEcT6yknhA0PWmCtvE4mzPpdsn1Y=",
+        "lastModified": 1667322644,
+        "narHash": "sha256-1kVm/bPuEEpZpIjEtWhnIm9jcFkdfCMaveF8QVdDv2o=",
         "owner": "nim-nix-pkgs",
         "repo": "science",
-        "rev": "62171154107d0266ebde2603748803ac73a9a50d",
+        "rev": "cb01a12e9e2b73d374cb45c72e0d7f142fefa46b",
         "type": "github"
       },
       "original": {
